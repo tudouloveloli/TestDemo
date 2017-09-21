@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylistview/mylistview.iml" filepath="$PROJECT_DIR$/mylistview/mylistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temptest/temptest.iml" filepath="$PROJECT_DIR$/temptest/temptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" filepath="$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" />
+    </modules>
+  </component>
+</project>
