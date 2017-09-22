@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylistview/mylistview.iml" filepath="$PROJECT_DIR$/mylistview/mylistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupwindowdemo/popupwindowdemo.iml" filepath="$PROJECT_DIR$/popupwindowdemo/popupwindowdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectordemo/selectordemo.iml" filepath="$PROJECT_DIR$/selectordemo/selectordemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shapedemo/shapedemo.iml" filepath="$PROJECT_DIR$/shapedemo/shapedemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/temptest/temptest.iml" filepath="$PROJECT_DIR$/temptest/temptest.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" filepath="$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" />
     </modules>
