@@ -1,1 +1,1 @@
-include ':mylistview', ':temptest', ':customview', ':viewpagerdemo', ':popupwindowdemo', ':shapedemo', ':selectordemo'
+include ':mylistview', ':customview', ':viewpagerdemo', ':popupwindowdemo', ':shapedemo', ':selectordemo'
