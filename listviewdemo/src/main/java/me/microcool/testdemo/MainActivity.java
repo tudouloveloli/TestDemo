@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initView() {
         mListView = (ListView) findViewById(R.id.listview_demo);
-        FruitAdapter adapter = new FruitAdapter(this, R.layout.fruit_item, fruitList);
+        FruitAdapter adapter = new FruitAdapter(this, R.layout.item_list_fruit, fruitList);
         mListView.setAdapter(adapter);
     }
 

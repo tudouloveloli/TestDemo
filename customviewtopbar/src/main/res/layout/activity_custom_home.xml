@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="me.microcool.customview.CustomHomeActivity">
+
+    <me.microcool.customview.TopBar
+        android:id="@+id/top_bar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:leftBackground="@color/colorAccent"
+        app:leftText="@string/nav_back"
+        app:leftTextColor="@color/colorPrimary"
+        app:rightBackground="@color/colorAccent"
+        app:rightText="@string/more"
+        app:rightTextColor="@color/colorPrimary"
+        app:title="@string/title"
+        app:titleTextColor="@color/colorPrimaryDark"
+        app:titleTextSize="@dimen/title_text_size" />
+
+</RelativeLayout>

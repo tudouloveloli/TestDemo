@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/customview" />
-            <option value="$PROJECT_DIR$/mylistview" />
+            <option value="$PROJECT_DIR$/customviewtopbar" />
+            <option value="$PROJECT_DIR$/listviewdemo" />
             <option value="$PROJECT_DIR$/popupwindowdemo" />
             <option value="$PROJECT_DIR$/selectordemo" />
             <option value="$PROJECT_DIR$/shapedemo" />
