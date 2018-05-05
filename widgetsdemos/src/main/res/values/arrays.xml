@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>C语言</item>
+        <item>Java语言</item>
+        <item>Python语言</item>
+        <item>R语言</item>
+        <item>HTml语言</item>
+    </string-array>
+
+</resources>

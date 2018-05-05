@@ -8,12 +8,45 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/customviewtopbar" />
-            <option value="$PROJECT_DIR$/listviewdemo" />
-            <option value="$PROJECT_DIR$/popupwindowdemo" />
-            <option value="$PROJECT_DIR$/selectordemo" />
-            <option value="$PROJECT_DIR$/shapedemo" />
-            <option value="$PROJECT_DIR$/viewpagerdemo" />
+            <option value="$PROJECT_DIR$/basedemo" />
+            <option value="$PROJECT_DIR$/broadcastdemo" />
+            <option value="$PROJECT_DIR$/contentproviderdemo" />
+            <option value="$PROJECT_DIR$/databasedemo" />
+            <option value="$PROJECT_DIR$/demoanimation" />
+            <option value="$PROJECT_DIR$/demobaseadapter" />
+            <option value="$PROJECT_DIR$/democameraalbum" />
+            <option value="$PROJECT_DIR$/democonstraintlayout" />
+            <option value="$PROJECT_DIR$/demofragment" />
+            <option value="$PROJECT_DIR$/demohandler" />
+            <option value="$PROJECT_DIR$/demolistview" />
+            <option value="$PROJECT_DIR$/demomaterialdesign" />
+            <option value="$PROJECT_DIR$/demopopupwindow" />
+            <option value="$PROJECT_DIR$/demorecycleview" />
+            <option value="$PROJECT_DIR$/demorecycleviewload" />
+            <option value="$PROJECT_DIR$/demoshape" />
+            <option value="$PROJECT_DIR$/demosnackbar" />
+            <option value="$PROJECT_DIR$/demostyledev" />
+            <option value="$PROJECT_DIR$/demosurfaceview" />
+            <option value="$PROJECT_DIR$/demotopbar" />
+            <option value="$PROJECT_DIR$/demoviewpager" />
+            <option value="$PROJECT_DIR$/doublerecyclerview" />
+            <option value="$PROJECT_DIR$/evenbusdemo" />
+            <option value="$PROJECT_DIR$/immersivemode" />
+            <option value="$PROJECT_DIR$/layoutdemo" />
+            <option value="$PROJECT_DIR$/leakcanarydemo" />
+            <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/playaudiotest" />
+            <option value="$PROJECT_DIR$/playvideotest" />
+            <option value="$PROJECT_DIR$/practicetoppull" />
+            <option value="$PROJECT_DIR$/practiceui" />
+            <option value="$PROJECT_DIR$/practicevpindicator" />
+            <option value="$PROJECT_DIR$/qrdemo" />
+            <option value="$PROJECT_DIR$/servicedemo" />
+            <option value="$PROJECT_DIR$/spdemo" />
+            <option value="$PROJECT_DIR$/testcode" />
+            <option value="$PROJECT_DIR$/webviewtest" />
+            <option value="$PROJECT_DIR$/welcomevideo" />
+            <option value="$PROJECT_DIR$/widgetsdemos" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

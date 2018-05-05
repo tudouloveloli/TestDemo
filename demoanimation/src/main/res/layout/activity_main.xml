@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/anim_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View动画"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/anim_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Activity跳转动画"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/anim_drawable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Frame动画"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/anim_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Layout动画"
+        android:textAllCaps="false" />
+
+</LinearLayout>

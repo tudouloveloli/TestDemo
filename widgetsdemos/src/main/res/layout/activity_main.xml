@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ProgressBar
+        android:id="@+id/progress_default"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btn_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Spinner"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="基本UI_Widgets"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Progress"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="基本UI_Text"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Layout"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btn_contianer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="折叠ListView"
+        android:textAllCaps="false" />
+    <Button
+        android:id="@+id/btn_ImageSwitch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ImageSwitch"
+        android:textAllCaps="false" />
+
+
+</LinearLayout>

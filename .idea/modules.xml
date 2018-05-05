@@ -3,12 +3,45 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/customviewtopbar/customviewtopbar.iml" filepath="$PROJECT_DIR$/customviewtopbar/customviewtopbar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/listviewdemo/listviewdemo.iml" filepath="$PROJECT_DIR$/listviewdemo/listviewdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/popupwindowdemo/popupwindowdemo.iml" filepath="$PROJECT_DIR$/popupwindowdemo/popupwindowdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/selectordemo/selectordemo.iml" filepath="$PROJECT_DIR$/selectordemo/selectordemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shapedemo/shapedemo.iml" filepath="$PROJECT_DIR$/shapedemo/shapedemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" filepath="$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basedemo/basedemo.iml" filepath="$PROJECT_DIR$/basedemo/basedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastdemo/broadcastdemo.iml" filepath="$PROJECT_DIR$/broadcastdemo/broadcastdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentproviderdemo/contentproviderdemo.iml" filepath="$PROJECT_DIR$/contentproviderdemo/contentproviderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databasedemo/databasedemo.iml" filepath="$PROJECT_DIR$/databasedemo/databasedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoanimation/demoanimation.iml" filepath="$PROJECT_DIR$/demoanimation/demoanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demobaseadapter/demobaseadapter.iml" filepath="$PROJECT_DIR$/demobaseadapter/demobaseadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/democameraalbum/democameraalbum.iml" filepath="$PROJECT_DIR$/democameraalbum/democameraalbum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/democonstraintlayout/democonstraintlayout.iml" filepath="$PROJECT_DIR$/democonstraintlayout/democonstraintlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demofragment/demofragment.iml" filepath="$PROJECT_DIR$/demofragment/demofragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demohandler/demohandler.iml" filepath="$PROJECT_DIR$/demohandler/demohandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demolistview/demolistview.iml" filepath="$PROJECT_DIR$/demolistview/demolistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demomaterialdesign/demomaterialdesign.iml" filepath="$PROJECT_DIR$/demomaterialdesign/demomaterialdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demopopupwindow/demopopupwindow.iml" filepath="$PROJECT_DIR$/demopopupwindow/demopopupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demorecycleview/demorecycleview.iml" filepath="$PROJECT_DIR$/demorecycleview/demorecycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demorecycleviewload/demorecycleviewload.iml" filepath="$PROJECT_DIR$/demorecycleviewload/demorecycleviewload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoshape/demoshape.iml" filepath="$PROJECT_DIR$/demoshape/demoshape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demosnackbar/demosnackbar.iml" filepath="$PROJECT_DIR$/demosnackbar/demosnackbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demostyledev/demostyledev.iml" filepath="$PROJECT_DIR$/demostyledev/demostyledev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demosurfaceview/demosurfaceview.iml" filepath="$PROJECT_DIR$/demosurfaceview/demosurfaceview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demotopbar/demotopbar.iml" filepath="$PROJECT_DIR$/demotopbar/demotopbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoviewpager/demoviewpager.iml" filepath="$PROJECT_DIR$/demoviewpager/demoviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doublerecyclerview/doublerecyclerview.iml" filepath="$PROJECT_DIR$/doublerecyclerview/doublerecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evenbusdemo/evenbusdemo.iml" filepath="$PROJECT_DIR$/evenbusdemo/evenbusdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immersivemode/immersivemode.iml" filepath="$PROJECT_DIR$/immersivemode/immersivemode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutdemo/layoutdemo.iml" filepath="$PROJECT_DIR$/layoutdemo/layoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leakcanarydemo/leakcanarydemo.iml" filepath="$PROJECT_DIR$/leakcanarydemo/leakcanarydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playaudiotest/playaudiotest.iml" filepath="$PROJECT_DIR$/playaudiotest/playaudiotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playvideotest/playvideotest.iml" filepath="$PROJECT_DIR$/playvideotest/playvideotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicetoppull/practicetoppull.iml" filepath="$PROJECT_DIR$/practicetoppull/practicetoppull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiceui/practiceui.iml" filepath="$PROJECT_DIR$/practiceui/practiceui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicevpindicator/practicevpindicator.iml" filepath="$PROJECT_DIR$/practicevpindicator/practicevpindicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrdemo/qrdemo.iml" filepath="$PROJECT_DIR$/qrdemo/qrdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedemo/servicedemo.iml" filepath="$PROJECT_DIR$/servicedemo/servicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spdemo/spdemo.iml" filepath="$PROJECT_DIR$/spdemo/spdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcode/testcode.iml" filepath="$PROJECT_DIR$/testcode/testcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewtest/webviewtest.iml" filepath="$PROJECT_DIR$/webviewtest/webviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/welcomevideo/welcomevideo.iml" filepath="$PROJECT_DIR$/welcomevideo/welcomevideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widgetsdemos/widgetsdemos.iml" filepath="$PROJECT_DIR$/widgetsdemos/widgetsdemos.iml" />
     </modules>
   </component>
 </project>
