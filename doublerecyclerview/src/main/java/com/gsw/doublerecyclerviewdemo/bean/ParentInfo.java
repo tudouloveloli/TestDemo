@@ -30,4 +30,7 @@ public class ParentInfo {
         this.menuList = menuList;
     }
 
+
+
+
 }

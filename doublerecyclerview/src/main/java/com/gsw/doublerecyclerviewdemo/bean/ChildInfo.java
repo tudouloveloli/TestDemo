@@ -24,4 +24,7 @@ public class ChildInfo {
     public void setMenuName(String menuName) {
         this.menuName = menuName;
     }
+
+
+
 }
