@@ -2,10 +2,9 @@ package com.gsw.spdemo;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.preference.PreferenceManager;
-import android.support.annotation.BoolRes;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.Button;
 
@@ -15,10 +14,15 @@ import java.util.Set;
 /**
  * SP Demo
  * 值得注意的地方 ：
- * 存和取的操作都需要sp对象，且获得sp对象的方式保持一致(3中方式选1种) 其实一个sp对象想足够了。这里只是为了演示demo
+ * 存和取的操作都需要sp对象，且获得sp对象的方式保持一致(3中方式选1种)
+ *
+ * 其实一个sp对象想足够了。这里只是为了演示demo
  * <p>
- * 存 ： 使用SharedPreferences.Editor 对象来put数据。 sp.edit(); 来获取edit对象。 最后使用apply 或者commit
- * 取 ： 使用的是sp对象的getXXX方法。
+ * 存 ：
+ *      使用SharedPreferences.Editor 对象来put数据。 sp.edit(); 来获取edit对象。 最后使用apply 或者commit
+ *
+ * 取 ：
+ *      使用的是sp对象的getXXX方法。
  *
  * @author gaoshiwei
  */

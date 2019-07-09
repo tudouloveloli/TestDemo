@@ -9,7 +9,7 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
 /**
- * 自定义的一个内容提供器,
+ * 自定义的一个内容提供器, 设计API给其他app使用
  * 是给其他App使用
  *
  * @author gaoshiwei
